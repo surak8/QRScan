@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRScan", "QRScan.csproj", "{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColtUtilities", "..\ColtUtilities\ColtUtilities\ColtUtilities.csproj", "{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCoder", "..\DL\qr\QRCoder\QRCoder\QRCoder.csproj", "{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Debug|x86.ActiveCfg = Debug|x86
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Debug|x86.Build.0 = Debug|x86
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Release|Any CPU.ActiveCfg = Release|x86
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Release|x86.ActiveCfg = Release|x86
+		{27ED8FD8-0CFA-4E09-9899-9C49CA171DB3}.Release|x86.Build.0 = Release|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Debug|x86.ActiveCfg = Debug|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Debug|x86.Build.0 = Debug|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Release|Any CPU.ActiveCfg = Release|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Release|x86.ActiveCfg = Release|x86
+		{63AB1EEB-E7E7-4DE6-A4FD-59DB6AC1869E}.Release|x86.Build.0 = Release|x86
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{AECE5DF3-C379-46CA-BB7D-7BDBE59011FD}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

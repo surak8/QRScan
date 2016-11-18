@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NSQRScan.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="zebraCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^XA
+
+^FO10,20
+^ADN,36,20
+^FDModel:^FS
+
+^FO170,20
+^ADN,30,20
+^FD[MODEL]^FS
+
+^FO58,60
+^ADN,36,20
+^FDS/N:^FS
+
+^FO170,60
+^ADN,30,20
+^FD[SN]^FS
+
+^FO60,100
+^BQN,2,4
+^FDMM,A#@[MODEL]@$[SN]$%[DATE]%#^FS
+
+^FO200,110
+^BXN,6,200
+^FDO1970A1CS^FS
+
+^XZ
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

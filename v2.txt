@@ -1,0 +1,6 @@
+cd existing_folder
+git init
+git remote add origin http://colt-ubuntu.colt.com/rtcousens/riktest.git
+git add .
+git commit
+git push -u origin master

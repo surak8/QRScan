@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfModelDetail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModelDetail>
+    <ModelNumber>O1070A1CS</ModelNumber>
+    <PartNumber>579771</PartNumber>
+    <DrawingNumber>57977</DrawingNumber>
+    <SerialFormat>72B####</SerialFormat>
+  </ModelDetail>
+  <ModelDetail>
+    <ModelNumber>O2091AJW</ModelNumber>
+    <SerialFormat>AJW###</SerialFormat>
+  </ModelDetail>
+</ArrayOfModelDetail>
