@@ -4,3 +4,6 @@ git remote add origin http://colt-ubuntu.colt.com/rtcousens/riktest.git
 git add .
 git commit
 git push -u origin master
+
+REM https://github.com/surak8/QRScan.git
+REM had to PULL, 'cause I created README.md on the server.
